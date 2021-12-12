@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/find-your-bank/static/css/main.4350d5d0.chunk.css",
+    "main.js": "/find-your-bank/static/js/main.6f3a4c68.chunk.js",
+    "main.js.map": "/find-your-bank/static/js/main.6f3a4c68.chunk.js.map",
+    "runtime-main.js": "/find-your-bank/static/js/runtime-main.37cccd5e.js",
+    "runtime-main.js.map": "/find-your-bank/static/js/runtime-main.37cccd5e.js.map",
+    "static/css/2.0a9ec390.chunk.css": "/find-your-bank/static/css/2.0a9ec390.chunk.css",
+    "static/js/2.7989c198.chunk.js": "/find-your-bank/static/js/2.7989c198.chunk.js",
+    "static/js/2.7989c198.chunk.js.map": "/find-your-bank/static/js/2.7989c198.chunk.js.map",
+    "index.html": "/find-your-bank/index.html",
+    "static/css/2.0a9ec390.chunk.css.map": "/find-your-bank/static/css/2.0a9ec390.chunk.css.map",
+    "static/css/main.4350d5d0.chunk.css.map": "/find-your-bank/static/css/main.4350d5d0.chunk.css.map",
+    "static/js/2.7989c198.chunk.js.LICENSE.txt": "/find-your-bank/static/js/2.7989c198.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.37cccd5e.js",
+    "static/css/2.0a9ec390.chunk.css",
+    "static/js/2.7989c198.chunk.js",
+    "static/css/main.4350d5d0.chunk.css",
+    "static/js/main.6f3a4c68.chunk.js"
+  ]
+}
